@@ -4,8 +4,10 @@ Multi-user web-application, which store photos in albums. Another word, this is 
 ### How deployment
 Requirements:
 1. Eclipse IDE (2024-12) with include packages (software):
-   | Eclipse IDE integration for Maven   | https://download.eclipse.org/technology/m2e/releases/latest  	   |
+
+   | Package  							 | Link															   	   |
    |-----------------------------------  |---------------------------------------------------------------------|
+   | Eclipse IDE integration for Maven   | https://download.eclipse.org/technology/m2e/releases/latest 		   |
    | EGit							     | https://download.eclipse.org/egit/updates						   |
    | JustJ JRE Updates for IDE Packages  | https://download.eclipse.org/justj/epp/release/latest			   |
    | Latest Eclipse IDE Packages Release | https://download.eclipse.org/technology/epp/packages/latest/ 	   |
