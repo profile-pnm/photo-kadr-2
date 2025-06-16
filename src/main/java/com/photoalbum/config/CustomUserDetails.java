@@ -5,6 +5,7 @@ import org.springframework.security.core.userdetails.User;
 
 import java.util.Collection;
 
+@SuppressWarnings("serial")
 public class CustomUserDetails extends User {
     private final Long userId;
     
